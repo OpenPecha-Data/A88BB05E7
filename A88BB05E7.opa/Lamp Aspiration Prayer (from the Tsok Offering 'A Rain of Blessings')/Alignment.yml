@@ -1,0 +1,19 @@
+segment_sources:
+  P311AED61:
+    type: origin_type
+    relation: translation
+    language: en
+  P463B2E2E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  59166e2a0e6843c28ce9492191a832eb:
+    P311AED61: 18dfadef271c48cca23ad4ab67078c87
+    P463B2E2E: fa2871f75ecc41f4bd50685aa43ea7de
+  33dd363a6e5f48be93023edcdc4ae133:
+    P311AED61: 2535370d44b2417881cb2fee22493a1c
+    P463B2E2E: e4ad8db643ca480dac6ffea31dc871c4
+  013ebf879d0e4a02b8a6d8efb466f310:
+    P311AED61: 385ea387358a43cd9f99ae529acb9e90
+    P463B2E2E: 476dfd684d314422b84f8b5fa99295ed
